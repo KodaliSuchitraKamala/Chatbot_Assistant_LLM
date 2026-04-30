@@ -9,6 +9,58 @@
   ],
   "kodalisuchitrakamala@gmail.com": [
     {
+      "id": "1777534856142",
+      "messages": [
+        {
+          "id": "1",
+          "text": "Hello, how can I help you today?",
+          "sender": "bot",
+          "timestamp": "2026-04-30T07:40:30.656Z"
+        },
+        {
+          "id": "1777534840537",
+          "text": "Explain quantum computing simply",
+          "sender": "user",
+          "timestamp": "2026-04-30T07:40:40.537Z",
+          "status": "sent"
+        },
+        {
+          "id": "1777534856143",
+          "text": "To understand quantum computing, you first have to understand how a normal computer (like your phone or laptop) works.\n\n### 1. The Normal Computer: The Light Switch\nA standard computer uses **\"Bits.\"** Think of a bit like a light switch. It can be in one of two states: **On or Off** (represented as 1 or 0). \n\nEverything you do on a computer—typing an email, watching a video, or playing a game—is just billions of these little switches flipping on and off in different combinations.\n\n### 2. The Quantum Computer: The Spinning Coin\nA quantum computer uses **\"Qubits.\"** This is where things get weird. \n\nImagine you place a coin on a table. It is either Heads or Tails. That’s a normal bit. \nBut imagine you **spin** that coin on the table. While it’s spinning, is it Heads or Tails? It’s actually a blur of **both at the same time.** \n\nThis state of being \"both\" is called **Superposition.** Because a qubit can represent a 1, a 0, or both at once, it can hold much more information than a regular bit.\n\n### 3. Why is this better? (The Maze Analogy)\nImagine you are trying to find the exit to a giant maze.\n\n*   **A normal computer** is like a mouse. it runs down one path, hits a wall, turns around, and tries another path. It tries every path one by one until it finds the way out.\n*   **A quantum computer** is like a **mist.** The mist enters the maze and floats through *every path at the exact same time.* It finds the exit almost instantly because it doesn't have to try them one by one.\n\n### 4. The \"Spooky\" Connection (Entanglement)\nThere is another quantum trick called **Entanglement.** You can link two qubits together so that they are perfectly synchronized, no matter how far apart they are. \n\nIf you have two \"entangled\" spinning coins and you stop one to see it's \"Heads,\" the other coin will instantly stop and show \"Heads\" too—even if it’s on the other side of the universe. This allows qubits to work together in a massive, powerful team rather than as isolated switches.\n\n### 5. What will we use them for?\nQuantum computers aren't going to replace your laptop for watching Netflix or checking email. They are actually slower for simple tasks. \n\nThey are designed for **massive \"what if\" problems** that are too big for today's computers, such as:\n*   **Medicine:** Simulating how new drugs will react in the human body at a molecular level.\n*   **Encryption:** Creating (and breaking) uncrackable codes.\n*   **Environment:** Designing new materials to capture carbon or creating super-efficient batteries.\n\n### Summary\n*   **Normal Computer:** Uses Bits (0 or 1). Works like a library of books where you read one page at a time.\n*   **Quantum Computer:** Uses Qubits (0, 1, or both). Works like a library where you can read **every book at the same time.**",
+          "sender": "bot",
+          "timestamp": "2026-04-30T07:40:56.142Z"
+        }
+      ],
+      "preview": "Explain quantum computing simply",
+      "timestamp": "2026-04-30T07:40:56.142Z"
+    },
+    {
+      "id": "1777534773865",
+      "messages": [
+        {
+          "id": "1",
+          "text": "Hello, how can I help you today?",
+          "sender": "bot",
+          "timestamp": "2026-04-30T07:39:15.626Z"
+        },
+        {
+          "id": "1777534771271",
+          "text": "Explain quantum computing simply",
+          "sender": "user",
+          "timestamp": "2026-04-30T07:39:31.271Z",
+          "status": "sent"
+        },
+        {
+          "id": "1777534773865",
+          "text": "API key is invalid or has insufficient permissions. Please check your GEMINI_API_KEY.",
+          "sender": "bot",
+          "timestamp": "2026-04-30T07:39:33.864Z"
+        }
+      ],
+      "preview": "Explain quantum computing simply",
+      "timestamp": "2026-04-30T07:39:33.865Z"
+    },
+    {
       "id": "1777529536338",
       "messages": [
         {
